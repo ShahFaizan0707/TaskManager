@@ -2,6 +2,21 @@
 
 A modern, feature-rich task management application built with React and TypeScript that helps teams collaborate and manage projects efficiently.
 
+# Deployed Link
+
+
+## UI ScreenShots
+![WhatsApp Image 2025-04-14 at 4 03 10 PM](https://github.com/user-attachments/assets/2f5738be-0cfd-43f2-a7a6-46f7df51ef73)
+![WhatsApp Image 2025-04-14 at 4 03 11 PM](https://github.com/user-attachments/assets/668f3392-1d96-489f-997d-8d757a6d695f)
+![WhatsApp Image 2025-04-14 at 4 03 11 PM (1)](https://github.com/user-attachments/assets/38918745-f5d1-4856-831e-75b18be7ddec)
+![WhatsApp Image 2025-04-14 at 4 03 11 PM (2)](https://github.com/user-attachments/assets/7131fab1-3a0d-40b6-8a08-718de7cd098b)
+![WhatsApp Image 2025-04-14 at 4 03 12 PM](https://github.com/user-attachments/assets/f9ecb385-38c7-435d-83f8-97c9c8ba0be0)
+![WhatsApp Image 2025-04-14 at 4 03 12 PM (1)](https://github.com/user-attachments/assets/87735925-9899-4d7f-a254-a00f2f7e603b)
+![WhatsApp Image 2025-04-14 at 4 03 13 PM](https://github.com/user-attachments/assets/c1070d8b-1062-4dbd-9129-3baccf2ea365)
+![WhatsApp Image 2025-04-14 at 4 03 13 PM (1)](https://github.com/user-attachments/assets/d8021497-391d-49d9-be79-f39d9bebea48)
+
+## Backend URL
+[Backend](https://github.com/ShahFaizan0707/TaskManagerBackend)
 ## Features
 
 ### Project Management

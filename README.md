@@ -3,6 +3,9 @@
 A modern, feature-rich task management application built with React and TypeScript that helps teams collaborate and manage projects efficiently.
 
 # Deployed Link
+[AWS project link](http://65.2.57.119:5173/)
+Deployement done on AWS
+
 
 
 ## UI ScreenShots
